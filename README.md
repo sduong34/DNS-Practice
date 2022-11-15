@@ -9,7 +9,7 @@ TTL: 7200
 GCP 
 ## Instructions to recreate app 
 Create VM in GCP 
-Steps after first launching vm (sudo apt-get update, sudo apt install python3-pip, pip3 install flask)
-Clone github repo using git clone 
-cd into the repo 
+Steps after first launching vm (sudo apt-get update, sudo apt install python3-pip, pip3 install flask)  
+Clone github repo using git clone  
+cd into the repo  
 Run app using sudo python3 app.py
